@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jrenaepeppers@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jrenaepeppers/](www.linkedin.com/in/jrenaepeppers/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jrenaepeppers/](www.linkedin.com/in/jrenaepeppers/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
