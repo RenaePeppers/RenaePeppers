@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm J Renae Peppers</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://pepperswebdev.netlify.app](https://pepperswebdev.netlify.app)
+- 👨‍💻 A sample of my projects are available at [https://pepperswebdev.netlify.app](https://pepperswebdev.netlify.app)
 
 - 📫 How to reach me **jrenaepeppers@gmail.com**
 
